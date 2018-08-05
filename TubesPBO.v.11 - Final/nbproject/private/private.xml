@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/TUBES/Tubes1V10/src/Model/Admin.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Controller/ControllerCustomerView.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/View/Home.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Model/Transaction.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Controller/ControllerHome.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Model/DetailTransaction.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/View/Login.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Database/koneksi.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/View/SignUp.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/View/TransactionView.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Model/Member.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/View/ProductView.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Controller/ControllerTransactionView.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/View/Forgot.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Model/Main.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Model/Aplikasi.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Controller/ControllerSignup.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/View/CustomerView.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Model/User.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Controller/ControllerLogin.java</file>
+            <file>file:/D:/TUBES/Tubes1V10/src/Controller/ControllerProductView.java</file>
+        </group>
+    </open-files>
+</project-private>

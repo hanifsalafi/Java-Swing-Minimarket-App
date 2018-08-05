@@ -1,0 +1,6 @@
+Ada 2 file tambahan yang digunakan dalam program ini :
+1. jcalendar-1.4.jar*
+2. mysql-connector-java-5.1.29.jar**
+
+*Jika terdapat error pada transactionView, mohon untuk diinstal/add jar file "jcalendar-1.4.jar" di bagian palete manager netbeans
+**Jika terdapat error pada koneksi database, mohon untuk dinstal/add jar file "mysql-connector-java-5.1.29.jar" di bagian library file Tubes
